@@ -1,3 +1,1 @@
-# hollo-word
-Olá meu amigo você está no GitHub
-Seja bem-vindo
+Pull Requests é o coração da colaboração no GitHub. Quando você abre uma solicitação de recebimento , está propondo suas alterações e solicitando que alguém revise e inclua sua contribuição e as una em sua ramificação. Pedidos pull mostram diffs , ou diferenças, do conteúdo de ambos os branches.
